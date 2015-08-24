@@ -1,0 +1,151 @@
+Book number: 150
+9.0	1041007	哈利·波特与魔法石	[英] J. K. 罗琳 / 苏农 / 人民文学出版社 / 2000-9 / 19.50元
+8.8	1039487	哈利·波特与密室	[英] J. K. 罗琳 / 马爱新 / 人民文学出版社 / 2000-9 / 22.00元
+8.9	1071241	哈利·波特与阿兹卡班的囚徒	[英] J. K. 罗琳 / 郑须弥 / 人民文学出版社 / 2000-9 / 26.50元
+8.9	1009257	哈利·波特与火焰杯	[英] J. K. 罗琳 / 马爱新 / 人民文学出版社 / 2001-5 / 39.80元
+8.6	1013129	哈利·波特与凤凰社	[英] J. K. 罗琳 / 马爱农 / 马爱新 / 蔡文 / 人民文学出版社 / 2003-9 / 59.00元
+8.8	1432596	哈利·波特与混血王子	[英] J. K. 罗琳 / 马爱农 / 马爱新 / 人民文学出版社 / 2005-10 / 58.00元
+8.9	2295163	哈利·波特与死亡圣器	[英] J. K. 罗琳 / 马爱农 / 马爱新 / 人民文学出版社 / 2007-10 / 66.00元
+7.6	19898714	偶发空缺	[英] J. K. 罗琳 / 任战 / 向丁丁 / 人民文学出版社 / 2012-10 / 57.00元
+9.2	1340758	Harry Potter and the Sorcerer's Stone	J.K. Rowling / Scholastic Paperbacks / 1999-9 / USD 10.99
+8.9	1975797	Harry Potter and the Deathly Hallows	J.K.Rowling / Arthur A. Levine Books / 2007-7-21 / 34.99美元
+8.0	1028779	神奇动物在哪里	[英] 纽特·斯卡曼 / 一目 / 人民文学出版社 / 2001-10 / 3.50元
+9.1	1341752	Harry Potter And The Chamber Of Secrets	J. K. Rowling / Scholastic Paperbacks / 2000-9-1 / USD 10.99
+9.3	1344161	Harry Potter and the Goblet of Fire	J.K. Rowling / Scholastic / 2002-9 / 9.99美元
+7.9	3338175	诗翁彼豆故事集	[英] J. K. 罗琳 / 马爱农 / 人民文学出版社 / 2008-12 / 18.00元
+9.2	1291197	Harry Potter and the Philosopher's Stone	J. K. Rowling / Bloomsbury Pub Ltd / 2000-2 / USD 9.95
+8.6	1214898	哈利・波特与凤凰社	J.K.罗琳 / 人民文学出版社 / 2003-9-1 / 75.00
+9.0	25962533	神奇动物在哪里	(英)纽特·斯卡曼 / 一目 / 人民文学出版社 / 2014-10 / 18.00元
+9.3	1344160	Harry Potter and the Prisoner of Azkaban	J. K. Rowling / Scholastic / 2001-9-11 / 10.99美元
+9.2	1291201	Harry Potter and the Prisoner of Azkaban	J.K. Rowling / bloomsbury / 1999 / 80.00元
+9.3	3898484	哈利·波特与阿兹卡班囚徒	[英] J. K. 罗琳 / 马爱农 / 马爱新 / 人民文学出版社 / 2009-4 / 27.00元
+8.9	2284916	哈利波特7	J.K. 羅琳 / 皇冠編譯組 / 皇冠 / 2007 / NT$599
+8.7	1187112	Harry Potter and the Order of the Phoenix	J.K.Rowling / bloomsbury / 2003 / 88元,7.99英镑
+7.8	1084341	神奇的魁地奇球	[英] 肯尼沃思·惠斯普 / 一目 / 人民文学出版社 / 2001-10 / 3.30元
+8.9	1288972	Harry Potter and the Half-Blood Prince	J. K. Rowling / Bloomsbury / 2005-7-16 / GBP 16.99
+7.7	2281184	哈利·波特百科全书	哈利•波特百科全书编委会 / 新星出版社 / 2007.10 / 98.00元
+9.0	1419841	神秘的魔法石	J.K. 羅琳 / 彭倩文 / 皇冠文化出版公司 / 2000-6 / NT$250
+9.0	1736652	哈利•波特(共6册) (精装)	J.K.罗琳 / 人民文学出版社 / 2005年11月1日 / 320.0
+9.2	1291202	Harry Potter and the Goblet of Fire	J.K. Rowling / Bloomsbury Publishing PLC / 2000 / 6.99英镑
+9.5	3393172	哈利.波特-(珍藏版)(全七册)	J.K.罗琳 / 苏农 / 马爱新 马爱农 / 人民文学出版社 / 2008-12-1 / 430.00元
+8.7	25957853	神奇的魁地奇球	(英)肯尼沃思·惠斯普 / 一目 / 人民文学出版社 / 2014-10 / 16.00元
+8.9	1388776	Harry Potter and the Order of the Phoenix	J. K. Rowling / Scholastic / 2003-07-01 / USD 29.99
+8.6	1342817	哈利波特5 鳳凰會的密令	J. K. Rowling / 皇冠編譯組 / 皇冠文化出版公司 / 2003-9-1 / $78.00
+9.6	25697249	哈利·波特电影魔法书	[英]布莱恩·西布利（Brian Sibley） / 人民邮电出版社 / 2013-7-1 / 198.00元
+8.5	2012562	Fantastic Beasts and Where to Find Them	Newt Scamander / 2001-3 / 20.00元
+7.4	5355702	哈利·波特的哲学世界	[美] 大卫·巴格特 / 肖恩·克莱因  编 / 于霄 / 刘晓春 / 上海三联书店 / 2010-11 / 26.00元
+9.1	2009191	Harry Potter and the Deathly Hallows	J. K. Rowling / Bloomsbury Books / 2007-7 / 208.00元
+6.8	1095495	哈利·波特的魔法世界	[美] 戴维·科尔伯特 / 麦秸 / 人民文学出版社 / 2002-4 / 13.80元
+9.0	1346936	Harry Potter and the Half-Blood Prince	J. K. Rowling / Scholastic / July 16, 2005 / $29.99
+8.0	6774137	哈利·波特百科全书	《哈利·波特百科全书》编委会 编 / 北京理工大学出版社 / 2011-7 / 98.00元
+9.1	2009192	Harry Potter and the Deathly Hallows U.K Adult Edition	J.K. Rowling / Bloomsbury Publishing PLC / 2007-7 / CDN$ 45.00
+9.2	2154092	Harry Potter and the Sorcerer's Stone	J.K. Rowling / Scholastic / 1998-10 / $22.99
+7.2	1683149	哈利·波特魔法小公主	宁红 / 中国青年 / 2005-8 / 20.00元
+9.0	2362709	Harry Potter and the Half-Blood Prince	J. K. Rowling / Large Print Distribution / 2007-07-02 / USD 14.95
+9.6	2189616	The Complete Harry Potter Collection Box Set	J.K. Rowling / Bloomsbury Publishing PLC / 2007-10-01 / £105.00
+6.7	1863794	魔法的历史	[英]多米尼克·亚历山大 / 胡静 / 上海人民出版社 / 2006 / 58.00
+9.2	1987334	Harry Potter and the Goblet of Fire	J. K. Rowling / Bloomsbury / 2000 / 244.00元
+7.1	1895107	霍格沃茨的中国留学生-哈利波特	龙葵 / 2006-8 / 20.00元
+8.9	1393887	Harry Potter And The Chamber Of Secrets	J. K. Rowling / Bloomsbury / 2000-01-01 / 88.0
+9.4	6856772	哈利·波特精装全集（套装全7册）	[英] J. K. 罗琳 / 苏农 / 马爱农 / 马爱新 / 人民文学出版社 / 2011-1 / 430.00元
+7.2	1256254	魔法师的同伴	(英)科荣泽克/(英)科荣泽克；樊宇 / 樊宇 / 中国广播电视出版社 / 1899-12 / 25.0
+0.0	25880787	哈利·波特与心理学	[美] 尼尔·墨霍兰德  编著 / 穆岩 / 电子工业出版社 / 2014-6 / 49.00元
+9.4	1351897	Harry Potter and the Chamber of Secrets	J K Rowling        / BLOOMSBURY CHILDREN' / 2004-07-10 / 108.00元
+6.5	1043298	哈利·波特与9 3/4月台	谢艳，熊孜 / 湖南人民出版社 / 2004-12 / 25.0
+9.3	1351896	Harry Potter and the Philosopher's Stone	J. K. Rowling / BLOOMSBURY CHILDREN' / 2004-07-10 / GBP 7.99
+8.3	1743003	像天使一样堕落	挖洞仓鼠 / 中国青年出版社 / 2006-1 / 26.00元
+8.1	5410798	Harry Potter	Williamson, Andrew 绘 / 2010-11 / 250.00元
+0.0	26260693	Harry Potter: The Creature Vault	Jody Revenson / Harper Design / 2014-10-28 / USD 45.00
+5.7	3577344	哈利波特与黄金甲	不是罗琳写的 / [英] J. K. 罗琳 / 马爱新 / 人民文学出版社 / 1999-9-9 / 屌丝别哭！无价好么！
+0.0	1875830	Harrius Potter et Philosophi Lapis (Harry Potter and the Philosopher's Stone, Latin Edition)	J. K. Rowling / Peter Needham / Bloomsbury USA Children's Books / 2003-07 / USD 24.99
+9.2	1889321	Harry Potter and the Chamber of Secrets	J.K. Rowling / Scholastic / 1999-7-1 / USD 24.99
+9.2	6028076	哈利·波特与凤凰社	[英] J. K. 罗琳 / 马爱农 / 马爱新 / 人民文学出版社 / 2009-4 / 59.00元
+7.3	1704022	哈利·波特秘密档案	宁红 / 中国青年出版社 / 2005-10 / 20.00元
+9.1	2154095	Harry Potter and the Prisoner of Azkaban	J.K. Rowling / Scholastic / September 8, 1999 / $22.99
+9.1	2158211	哈里波特套装1-6 Harry Potter Boxed Set	J.K. Rowling / Bloomsbury Publishing, PLC / 2005 / £85
+8.2	3163871	The Tales of Beedle the Bard	J. K. Rowling / Children's High Level Group / 2008-12-04 / GBP 6.99
+8.9	1401161	阿茲卡班的逃犯	J.K. 羅琳 / 彭倩文 / 皇冠文化出版公司 / 2001-7 / 新台币299元
+7.5	6021105	哈利·波特的书架	约翰·格兰杰 / 马爱新 / 人民文学出版社 / 2012-7 / 24.00元
+6.1	3221203	哈利波特与大漏斗	
+8.8	2260149	Harry Potter and the Prisoner of Azkaban（哈里波特与阿兹卡班的囚徒）	J.K. Rowling / Bloomsbury Publishing PLC / 67.73
+8.4	1743005	孤独的心	李升平 / 挖洞仓鼠 / 中国青年出版社 / 2006-1 / 23.00元
+0.0	20411887	Harry Potter Page to Screen	Bob McCabe / Jody Revenson / Moira Squier / Amazon Publishing / 2012-12-4 / GBP10.99
+7.3	1891854	哈利波特的魔法世界	寇伯特 / 鍾友珊 / 貓頭鷹 / 2002-6-18 / 250.00元
+7.7	3437769	哈利波特历险记（全四册）	J·K 罗琳 / 彭倩文 / 西藏人民出版社 / 2000.9 / 68.00
+9.9	6872645	Harry Potter Page to Screen	McCabe, Bob / Harper Design / 2011-10 / USD75.00
+8.1	21993097	Special Edition Harry Potter Paperback Box Set	J. K. Rowling / Scholastic Inc. / 2013-8-27 / USD 100.00
+9.3	1393886	Harry Potter and the Philosopher's Stone	J.K.Rowling / Bloomsbury Publishing Plc / 1997-6-29 / GBP 6.99
+7.9	3276941	吟遊詩人皮陀故事集	J.K. 羅琳 / 林靜華 / 皇冠文化 / 2008-12-4 / NT$180.00
+0.0	25941651	云服务测试	博格兰德 (Kees Blokland) / 梅格瑞克 (Jeroen Mengerink) / 波尔 (Martin Pol) / 段念 / 杨榕 / 张庆秋 / 孙雅丽 / 人民邮电出版社 / 2014-7-1 / CNY 55.00
+8.1	3291921	怪獸與牠們的產地	J. K. 羅琳 / 雷藍多 / 皇冠文化出版有限公司 / 2001-10-1 / TWD 120
+8.6	6064691	Fantastic Beasts and Where to Find Them	J. K. Rowling / Bloomsbury / 2009 / 67.00元
+6.8	1843032	哈利.波特成长密码	丁丁 / 中国青年出版社 / 2006-7 / 25.00元
+7.3	6750056	哈利·波特终极典藏	seven 著 / 电脑报电子音像 / 2011-7 / 39.80元
+8.9	1419882	消失的密室	J.K. 羅琳 / 彭倩文 / 皇冠文化出版公司 / 2001-1 / 新台币280元
+0.0	11233772	Harry Potter Film Wizardry	Sibley, Brian / Harper Design / 2012-10 / $ 50.85
+9.1	1394787	Harry Potter and the Half-Blood Prince	J. K. Rowling / Raincoast Books / 2005-07-16
+8.1	21993090	Harry Potter and the Prisoner of Azkaban - Book 3	Scholastic, Inc.; Rowling, J. K.; Kibuishi, Kazu / 2013-8 / $ 14.68
+7.4	1870722	哈利波特的哲學世界	大衛．巴格特 / 蕭恩．克萊因 / 黃惟郁 / 麥田 / 2006-8-27 / 128.00元
+7.7	2161229	哈利波特6+1之神秘事务司	阿布思·邓不利多 / 第1版 (2007年5月1日) / 2007-5 / 35.0
+9.0	1793807	火盃的考驗	J.K. 羅琳 / 彭倩文 / 皇冠文化出版公司 / 2001-12 / 新台币429元
+8.7	1422116	混血王子的背叛	J.K.羅琳 / 皇冠編譯組 / 皇冠文化 / 2005-10 / 港币176元
+9.2	1291200	Harry Potter and the Chamber of Secrets	J.K.Rowling / bloomsbury / 1998 / 5.99英镑
+8.8	3410007	The Complete Harry Potter Collection	J. K. Rowling / Bloomsbury Publishing PLC / 2008-10-6 / GBP 59.99
+7.2	1129874	我和哈利·波特的真实故事	林赛・弗雷泽 / J.K.罗琳 / 蔡文 / 人民文学出版社 / 2003-9 / 9.00元
+7.6	3058692	Harry Potter und der Stein der Weisen	Joanne K. Rowling / Carlsen Verlag GmbH / 1999-12-1 / EUR 15.90
+6.4	1212511	哈利波特魔法学院	何之青 / 文化艺术出版社 / 2003-1-1 / 13.80
+8.2	2333801	Harry Potter and the Chamber of Secrets	J. K. Rowling / Bloomsbury / 1998 / 183.00元
+7.3	3723557	Fantastic Beasts and Where to Find Them	Newt Scamander / Bscurus Books / 2001
+9.8	4751521	Harry Potter Film Wizardry	Brian Sibley / Collins Design / 2010-10-19 / $39.99
+7.5	2328243	哈利波特的魔法與科學	Roger Highfield / 时报文化 / 2003 / NT280
+9.5	3297636	Harry Potter Hardcover Box Set	J. K. Rowling / Scholastic / 2007
+9.4	1351898	Harry Potter and the Prisoner of Azkaban	J.K. Rowling / BLOOMSBURY / 2004-7 / 108.00元
+8.9	1343525	Harry Potter and the Order of the Phoenix	J K Rowling / Bloomsbury / 2004 / £7.99
+9.2	2154097	Harry Potter and the Goblet of Fire	J.K. Rowling / Scholastic / July 8, 2000 / 98.00元
+9.2	1393888	HARRY POTTER and the Prisoner of Azkaban	J.K. Rowling / 进口图书出版社 / 2000-10 / 80.00元
+8.2	2062262	我的哈利·波特	林品 / 中国青年出版社 / 2007-4 / 25.00元
+9.1	1393889	Harry Potter and the Goblet of Fire	J.K. Rowling / Bloomsbury Publishing PLC / 2001-6-1
+9.0	4754173	Harry Potter Box Set	J. K. Rowling
+7.5	3046932	哈利波特7+1之巫师档案馆	阿不思·邓布利多 / 北京赛迪电子出版社 / 2007-10-01 / 38.0
+9.4	1949400	HARRY POTTER and the Philosopher s Stone(1-6)	J.K. Rowling / Bloomsbury Publishing PLC / 2006-10 / 469.0
+7.4	1832031	哈利·波特麻瓜魔法学院	帝企鹅 / 中国青年出版社 / 2006-3 / 22.00元
+9.0	3485095	HARRY POTTER PHOENIX哈里波特与凤凰令	J.K.罗琳 / 马爱农 / 马爱新 / 蔡文 / 人民文学出版社 / 2003.09 / 88.00
+8.7	2174280	Harry Potter and the Prisoner of Azkaban	J. K. Rowling / Raincoast Book Dist Ltd / 1999
+7.2	2157555	2007新概念才气作文选——云的南方:惊奇卷	[英]J.K.罗琳 / 马爱农 / 人民文学出版社 / 2007-11 / 52
+6.5	1435045	哈利・波特的“母亲”――J・K・罗琳传	康尼·安·柯克 / 桑蕾 / 程芳 / 李清清 / 九洲出版社 / 2005-8 / 24.8
+9.0	2333804	Harry Potter and the Prisoner of Azkaban	J. K. Rowling / Bloomsbury / 1999 / 176.00 元
+9.1	3140654	Harry Potter and the Deathly Hallows	J.K. Rowling / Bloomsbury Publishing PLC / 2008-07-10 / 118.00元
+9.8	3485760	Harry Potter - The Complete Story: Collected Audio Edition [Audiobook]	J.K.Rowling / Stephen Fry / Bloomsbury Publishing PLC / 2008 / £350.00
+8.1	1097635	哈利.波特与密室	哈利·波特工作室编 / 人民文学出版社 / 2002-4 / 14.8
+6.3	1288864	魔法小王子	钟淼淼 / 华艺出版社 / 2005-05 / 20.00
+6.2	1513077	啥利波特	麦可·格伯 / 刘稼禹 / 汕头大学出版社 / 2003-3 / 20.00元
+0.0	3841407	哈利波特珍藏集	(美)华纳兄弟娱乐公司|译者:袁裴蓓 / 袁裴蓓 / 安徽少儿 / 2009-7 / 48.00元
+7.2	1895011	玩转哈利.波特	李超然 / 中国青年 / 2006-7 / 26.00元
+6.8	2245317	哈迷手册	阿兰·左拉·科荣泽克 / 樊宇 / 江苏文艺 / 2007-9 / 25.00元
+7.4	2478635	Harry Potter and International Relations	Iver B. Neumann Daniel Nexon / Rowman & Littlefield Publishers / 2006-05-28 / CAD 90.18
+7.8	1743004	梅花引	无生 / 李升平 / 中国青年出版社 / 2006-1 / 28.00元
+8.9	3301066	哈利·波特与阿兹卡的囚徒	J.K.罗琳 / 郝慧 / 天津科技翻译出版公司 / 2009-1 / 12.00元
+9.3	1751510	哈利波特与火焰杯(DVD)	J.K. Rowling / Bloomsbury / 22.00元
+8.9	1343524	Harry Potter and the Order of the Phoenix	J.K. Rowling / 7-09999 / 2004-7 / 103.0
+8.8	3140670	Harry Potter and the Deathly Hallows	J.K. Rowling / Bloomsbury Publishing PLC / 2007-7-21 / 118.00元
+6.6	1009473	哈利·波特背后的天才	(英)西恩.史密斯 / 宋润娟等 / 时代文艺出版社 / 2002-01 / 12.8
+8.9	2174707	Harry Potter and the Half-Blood Prince	J. K. Rowling / Bloomsbury Publishing PLC / 2006-6-23 / 85.00元
+9.7	2993543	Harry Potter	J.K.Rowling (author) / Jim Dale (reader) / Listening Library / September 17, 2007 / USD 454.80
+9.1	1388659	Harry Potter and the Chamber of Secrets	J.K. Rowling / Bloomsbury Publishing PLC / 2002 / 97.00元
+7.9	1458404	哈利·波特密匙	北京赛迪电子出版社 / 2005-10 / 38.0
+9.3	2035397	Harry Potter and the Deathly Hallows	J.K.Rowling / Bloomsbury Publishing PLC / 2007-7-21 / 208.00元
+9.4	2174704	Harry Potter and the Goblet of Fire	J.K. Rowling / 2004-7 / 122.00元
+5.4	1607872	哈利·波特	埃里斯 / 延边人民出版社 / 2003-1 / 20.00元
+8.4	1344094	Harry Potter and the Order of the Phoenix	J. K. Rowling / Mary GrandPré / Scholastic Paperbacks / 2004-8 / 95.0
+8.7	1465468	Harry Potter and the Order of the Phoenix (Harry Potter (Paperback))	J. K. Rowling / Rebound by Sagebrush / 2004-08 / USD 19.05
+8.9	2985057	Harry Potter Boxed Set	J. K. Rowling / Bloomsbury Publishing PLC / 2007-10 / GBP 115.00
+7.0	2273570	J.K.罗琳传	康尼·安·柯克 / 中国人民大学 / 2007-9 / 19.80元
+9.1	1855272	Garri Potter i filosofskii kamen / Harry Potter and the Philosopher's Stone (Russian Edition)	J. K. Rowling / Rosman Publishing / 2003-5-1 / USD 29.95
+6.7	1004209	哈利.小波特魔法揭秘-解读故事中的故事|魔幻世界01	七会静(日) / 新世界出版社 / 2003-01 / 13.80
+8.2	5920408	Harry Potter Film Wizardry	Warner Bros. / Brian Sibley / Bantam Press / 2010 / GBP 25.00
+9.2	1433657	Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry	J. K. Rowling / Arthur A. Levine Books / 2001-11 / $12.95
+8.7	3301133	哈利·波特与火焰杯	J.K.罗琳 / 王晓芳 / 天津科技翻译出版公司 / 2009-1 / 15.00元
+8.3	1226169	梦想之翼	盈彦 / 新世界出版社 / 2005-01-01 / 23.80
+8.8	3552549	The Tales of Beedle the Bard	J. K. Rowling / 2009-04-09 / USD 16.99
+9.5	3335642	Harry Potter and the Chamber of Secrets	J.K. Rowling / Needham, Peter / Bloomsbury Publishing PLC / 2007-01-02 / USD 22.87
+7.2	1394318	写给哈利·波特的信	（美）比尔・阿德勒 / 董海雅 / 上海译文出版社 / 2005-7 / 20.00元
